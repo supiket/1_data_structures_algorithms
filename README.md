@@ -1,20 +1,9 @@
-# CMPE250_2018Fall_Project1
-CMPE250 2018Fall Project1
+# 1_data_structures_algorithms
 
-Due date: 24.10.2017 23:59
-
-Please check out Project1.pdf for description of the project.
-
-Due date is a strict due date!
+For a detailed explanation of the project, read Project1.pdf
 
 How to compile
 In a terminal, call commands:
-
->cmake CMakeLists.txt
-
->make
-
-OR
 
 >cmake CMakeLists.txt && make
 
